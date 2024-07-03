@@ -1,0 +1,1 @@
+//return a maximum occuring character in an input string
